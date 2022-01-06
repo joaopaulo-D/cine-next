@@ -1,9 +1,14 @@
-### Para ter o projeto em sua maquina basta:
+### Para ter o projeto em sua maquina basta executar:
 
 ```bash
 git clone https://github.com/joaopaulo-D/cine-next.git
 ```
-### Execute o projeto
+### Entre na pasta do projeto:
+
+```bash
+cd cine-next/
+```
+### Execute o projeto:
 
 ```bash
 npm run dev
